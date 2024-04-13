@@ -1,1 +1,0 @@
-python3 ./python/hmluck83.py
